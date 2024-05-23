@@ -10,11 +10,12 @@ Este repositorio contiene material y ejercicios del curso "Taller de Algoritmos 
 
 ## Temas Abordados
 
+- Introducción a la lógica matemática.
+- Introducción al análisis y diseño de algoritmos (brevísima introducción)
 - Introducción a la lógica de programación.
-- Estructuras de control (condicionales y bucles).
-- Algoritmos y complejidad.
-- Programación orientada a objetos.
-- Manipulación de datos y estructuras de datos.
+- Estructuras de control.
+- Estructuras repetitivas.
+- Estructuras de datos.
 - Resolución de problemas algorítmicos.
 
 ## Contribuir
@@ -24,6 +25,6 @@ Este repositorio contiene material y ejercicios del curso "Taller de Algoritmos 
 ## Instructor
 
 - Nombre: Dr. Lázaro Bustio Martínez
-- Contacto: lazaro.bustioibero.mx
+- Contacto: lazaro.bustio@ibero.mx
 
 ¡Disfruta del curso y feliz codificación!
