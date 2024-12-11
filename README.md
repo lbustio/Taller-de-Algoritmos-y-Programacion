@@ -1,4 +1,4 @@
-![Logo](rsc\logo.webp)
+![Logo](rsc/logo.webp)
 
 # Taller de Algoritmos y Programación
 
